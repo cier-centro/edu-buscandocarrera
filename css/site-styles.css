@@ -1231,18 +1231,21 @@ h1.logo {
  * --------------------------------------------------
  */
 .site-buscandocarrera .home-section .container-fluid a > div {
-  background: no-repeat right / contain; }
+  background: no-repeat right / contain;
+  margin-bottom: 15px; }
   .site-buscandocarrera .home-section .container-fluid a > div h3, .site-buscandocarrera .home-section .container-fluid a > div label {
     color: white !important;
     width: 100%;
     margin: 0 !important; }
   .site-buscandocarrera .home-section .container-fluid a > div h3 {
-    font-size: 34px !important;
+    font-size: 32px !important;
     padding: 20px 110px 2px 0 !important; }
   .site-buscandocarrera .home-section .container-fluid a > div label {
-    font-size: 20px;
-    padding: 0px 150px 20px 0 !important;
-    font-weight: 400; }
+    font-size: 18px;
+    padding: 0px 110px 20px 0 !important;
+    font-weight: 400;
+    cursor: pointer;
+    line-height: 100%; }
 .site-buscandocarrera .home-section .container-fluid a:first-child > div {
   background-image: url("http://52.37.84.217/edu-buscandocarrera/img/img_itemHomeMenu1.png");
   background-color: #009791; }

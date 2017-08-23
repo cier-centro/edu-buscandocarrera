@@ -8,6 +8,7 @@
      .container-fluid a {
        & > div {
          background: no-repeat right / contain;
+         margin-bottom: 15px;
 
          h3, label {
              color: white !important;
@@ -16,13 +17,15 @@
          }
          h3 {
 
-            font-size: 34px !important;
+            font-size: 32px !important;
             padding: 20px 110px 2px 0 !important;
          }
          label {
-            font-size: 20px;
-            padding: 0px 150px 20px 0 !important;
+            font-size: 18px;
+            padding: 0px 110px 20px 0 !important;
             font-weight: 400;
+            cursor: pointer;
+            line-height: 100%;
          }
        }
        &:first-child > div {
