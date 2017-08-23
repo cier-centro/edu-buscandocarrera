@@ -1239,10 +1239,10 @@ h1.logo {
     margin: 0 !important; }
   .site-buscandocarrera .home-section .container-fluid a > div h3 {
     font-size: 32px !important;
-    padding: 20px 110px 2px 0 !important; }
+    padding: 20px 110px 2px 0; }
   .site-buscandocarrera .home-section .container-fluid a > div label {
     font-size: 18px;
-    padding: 0px 110px 20px 0 !important;
+    padding: 0px 110px 20px 0;
     font-weight: 400;
     cursor: pointer;
     line-height: 100%; }
@@ -1266,6 +1266,18 @@ h1.logo {
 .site-buscandocarrera .home-section .container-fluid a:nth-child(6) > div {
   background-image: url("http://52.37.84.217/edu-buscandocarrera/img/img_itemHomeMenu6.png");
   background-color: #5f5b92; }
+.site-buscandocarrera .home-section .container-fluid a:nth-child(7) > div, .site-buscandocarrera .home-section .container-fluid a:nth-child(8) > div {
+  height: 364px; }
+  .site-buscandocarrera .home-section .container-fluid a:nth-child(7) > div h3, .site-buscandocarrera .home-section .container-fluid a:nth-child(7) > div label, .site-buscandocarrera .home-section .container-fluid a:nth-child(8) > div h3, .site-buscandocarrera .home-section .container-fluid a:nth-child(8) > div label {
+    text-align: right; }
+  .site-buscandocarrera .home-section .container-fluid a:nth-child(7) > div h3, .site-buscandocarrera .home-section .container-fluid a:nth-child(8) > div h3 {
+    padding: 20px 0 2px !important; }
+  .site-buscandocarrera .home-section .container-fluid a:nth-child(7) > div label, .site-buscandocarrera .home-section .container-fluid a:nth-child(8) > div label {
+    padding: 0 0 20px !important; }
+.site-buscandocarrera .home-section .container-fluid a:nth-child(7) > div {
+  background: url("http://52.37.84.217/edu-buscandocarrera/img/img_itemHomeMenu7.png") no-repeat 0 0/100% auto !important; }
+.site-buscandocarrera .home-section .container-fluid a:nth-child(8) > div {
+  background: url("http://52.37.84.217/edu-buscandocarrera/img/img_itemHomeMenu8.png") no-repeat 0 0/100% auto !important; }
 @media (min-width: 992px) {
   .site-buscandocarrera .home-section .container-fluid a:nth-child(odd) > div {
     border-right: 10px solid white; }
