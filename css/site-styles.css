@@ -1246,6 +1246,8 @@ h1.logo {
     font-weight: 400;
     cursor: pointer;
     line-height: 100%; }
+.site-buscandocarrera .home-section .container-fluid a:hover div h3, .site-buscandocarrera .home-section .container-fluid a:hover div label {
+  text-decoration: underline; }
 .site-buscandocarrera .home-section .container-fluid a:first-child > div {
   background-image: url("http://52.37.84.217/edu-buscandocarrera/img/img_itemHomeMenu1.png");
   background-color: #009791; }
@@ -1269,6 +1271,16 @@ h1.logo {
     border-right: 10px solid white; }
   .site-buscandocarrera .home-section .container-fluid a:nth-child(even) > div {
     border-left: 10px solid white; } }
+@media (min-width: 768px) {
+  .site-buscandocarrera .home-section .container-fluid a > div h3 {
+    font-size: 32px !important; }
+  .site-buscandocarrera .home-section .container-fluid a > div label {
+    font-size: 18px !important; } }
+@media (max-width: 767px) {
+  .site-buscandocarrera .home-section .container-fluid a > div h3 {
+    font-size: 26px !important; }
+  .site-buscandocarrera .home-section .container-fluid a > div label {
+    font-size: 15px !important; } }
 
 /**
  * Pager Styles

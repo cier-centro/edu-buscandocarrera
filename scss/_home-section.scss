@@ -28,6 +28,13 @@
             line-height: 100%;
          }
        }
+       &:hover {
+         div {
+           h3, label {
+               text-decoration: underline;
+           }
+         }
+       }
        &:first-child > div {
          background-image: url("#{$images-path}img_itemHomeMenu1.png");
          background-color: $home-section-first-item-bg;
@@ -63,6 +70,30 @@
              border-left: 10px solid white;
            }
         }
-}
+      }
+      @media (min-width: 768px) {
+        .container-fluid a {
+          & > div {
+            h3 {
+               font-size: 32px !important;
+            }
+            label {
+               font-size: 18px !important;
+            }
+          }
+        }
+      }
+      @media (max-width: 767px) {
+        .container-fluid a {
+          & > div {
+            h3 {
+               font-size: 26px !important;
+            }
+            label {
+               font-size: 15px !important;
+            }
+          }
+        }
+      }
    }
  }
