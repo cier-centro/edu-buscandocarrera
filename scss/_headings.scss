@@ -43,6 +43,18 @@
             @extend .content-header-styles;
         }
     }
+    .home-title {
+      h1 {
+        margin: 10px 0 !important;
+        text-align: center;
+        background: $home-title-bg;
+        color: white;
+        font-weight: 700;
+        padding: 35px;
+        font-size: 50px;
+        line-height: 100%;
+      }
+    }
     h2.title {
         display: none;
     }

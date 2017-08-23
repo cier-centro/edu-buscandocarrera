@@ -724,6 +724,15 @@ h1.logo {
   font-size: 16px;
   font-weight: bold;
   margin-top: 15px; }
+.site-buscandocarrera .home-title h1 {
+  margin: 10px 0 !important;
+  text-align: center;
+  background: #4b90aa;
+  color: white;
+  font-weight: 700;
+  padding: 35px;
+  font-size: 50px;
+  line-height: 100%; }
 .site-buscandocarrera h2.title {
   display: none; }
 
