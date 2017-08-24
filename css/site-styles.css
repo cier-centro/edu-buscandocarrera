@@ -1297,9 +1297,9 @@ h1.logo {
     border-left: 10px solid white; } }
 @media (max-width: 767px) {
   .site-buscandocarrera .home-section .container-fluid a > div h3 {
-    font-size: 26px !important; }
+    font-size: 20px !important; }
   .site-buscandocarrera .home-section .container-fluid a > div label {
-    font-size: 15px !important; }
+    font-size: 12px !important; }
   .site-buscandocarrera .home-section .container-fluid a:nth-child(7) > div, .site-buscandocarrera .home-section .container-fluid a:nth-child(8) > div {
     height: 68vw !important; } }
 
