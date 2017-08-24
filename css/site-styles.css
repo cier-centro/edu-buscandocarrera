@@ -1283,16 +1283,25 @@ h1.logo {
     border-right: 10px solid white; }
   .site-buscandocarrera .home-section .container-fluid a:nth-child(even) > div {
     border-left: 10px solid white; } }
+@media (min-width: 768px) and (max-width: 991px) {
+  .site-buscandocarrera .home-section .container-fluid a:nth-child(7) > div, .site-buscandocarrera .home-section .container-fluid a:nth-child(8) > div {
+    height: 35vw !important; } }
 @media (min-width: 768px) {
   .site-buscandocarrera .home-section .container-fluid a > div h3 {
     font-size: 32px !important; }
   .site-buscandocarrera .home-section .container-fluid a > div label {
-    font-size: 18px !important; } }
+    font-size: 18px !important; }
+  .site-buscandocarrera .home-section .container-fluid a:nth-child(7) > div {
+    border-right: 10px solid white; }
+  .site-buscandocarrera .home-section .container-fluid a:nth-child(8) > div {
+    border-left: 10px solid white; } }
 @media (max-width: 767px) {
   .site-buscandocarrera .home-section .container-fluid a > div h3 {
     font-size: 26px !important; }
   .site-buscandocarrera .home-section .container-fluid a > div label {
-    font-size: 15px !important; } }
+    font-size: 15px !important; }
+  .site-buscandocarrera .home-section .container-fluid a:nth-child(7) > div, .site-buscandocarrera .home-section .container-fluid a:nth-child(8) > div {
+    height: 68vw !important; } }
 
 /**
  * Pager Styles

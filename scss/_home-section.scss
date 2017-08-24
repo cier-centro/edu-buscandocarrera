@@ -91,6 +91,13 @@
            }
         }
       }
+      @media (min-width: 768px) and (max-width: 991px) {
+        .container-fluid a {
+          &:nth-child(7) > div, &:nth-child(8) > div {
+            height: 35vw !important;
+          }
+        }
+      }
       @media (min-width: 768px) {
         .container-fluid a {
           & > div {
@@ -100,6 +107,12 @@
             label {
                font-size: 18px !important;
             }
+          }
+          &:nth-child(7) > div {
+            border-right: 10px solid white;
+          }
+          &:nth-child(8) > div {
+            border-left: 10px solid white;
           }
         }
       }
@@ -112,6 +125,9 @@
             label {
                font-size: 15px !important;
             }
+          }
+          &:nth-child(7) > div, &:nth-child(8) > div {
+            height: 68vw !important;
           }
         }
       }
