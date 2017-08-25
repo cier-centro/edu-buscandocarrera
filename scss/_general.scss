@@ -4,7 +4,7 @@
  */
 
 .content-styles {
-    background: $content-background;
+    background: white;
     border-radius: 7px;
     margin: 15px 0;
     padding-bottom: 15px;
@@ -75,7 +75,6 @@
         }
      }
      .general-content {
-        min-height: 500px;
 
         img {
             display: block;
@@ -201,9 +200,6 @@
             a {
                 font-size: 16px;
             }
-         }
-         .home-content, .general-content, .lateral-content {
-            width: 74%;
          }
      }
      @media (min-width: 992px) and (max-width: 1024px) {

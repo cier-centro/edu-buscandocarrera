@@ -548,7 +548,7 @@ h1.logo {
  * --------------------------------------------------
  */
 .content-styles, .site-buscandocarrera .home-content, .site-buscandocarrera .general-content, .site-buscandocarrera .lateral-content {
-  background: #f5f5f5;
+  background: white;
   border-radius: 7px;
   margin: 15px 0;
   padding-bottom: 15px; }
@@ -586,22 +586,20 @@ h1.logo {
   list-style: decimal !important; }
 .site-buscandocarrera .home-content .view-content ul li, .site-buscandocarrera .general-content .view-content ul li, .site-buscandocarrera .lateral-content .view-content ul li {
   list-style: disc !important; }
-.site-buscandocarrera .general-content {
-  min-height: 500px; }
-  .site-buscandocarrera .general-content img {
-    display: block;
-    margin: 15px auto; }
-  .site-buscandocarrera .general-content .btn {
-    white-space: normal;
-    color: white !important;
-    text-decoration: blink !important;
-    min-height: 75px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 1px; }
-    .site-buscandocarrera .general-content .btn.col-sm-3 {
-      width: 24%; }
+.site-buscandocarrera .general-content img {
+  display: block;
+  margin: 15px auto; }
+.site-buscandocarrera .general-content .btn {
+  white-space: normal;
+  color: white !important;
+  text-decoration: blink !important;
+  min-height: 75px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1px; }
+  .site-buscandocarrera .general-content .btn.col-sm-3 {
+    width: 24%; }
 .site-buscandocarrera .lateral-content h3 {
   text-align: center;
   display: block;
@@ -667,9 +665,7 @@ h1.logo {
     width: 22%;
     margin-left: 15px; }
     .site-buscandocarrera .lateral-content a {
-      font-size: 16px; }
-  .site-buscandocarrera .home-content, .site-buscandocarrera .general-content, .site-buscandocarrera .lateral-content {
-    width: 74%; } }
+      font-size: 16px; } }
 @media (min-width: 992px) and (max-width: 1024px) {
   .site-buscandocarrera #microsite_panel {
     overflow: hidden; } }
