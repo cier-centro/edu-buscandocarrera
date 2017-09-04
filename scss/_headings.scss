@@ -7,15 +7,17 @@
     color: $headers-default-text-color;
     margin-bottom: 0px !important;
 }
-.home-title-styles {
+.main-title-styles {
     margin: 10px 0 !important;
     text-align: center;
-    background: $home-title-bg;
     color: white;
     font-weight: 700;
     padding: 35px;
-    font-size: 50px;
     line-height: 100%;
+}
+.home-title-styles {
+    background: $home-title-bg;
+    @extend .main-header-styles;
 }
 
  .#{$site-name} {
@@ -23,7 +25,7 @@
         h1 {
             color: white;
             margin-top: 30px;
-            font-size: 30px;
+            font-size: 50px !important;
             @extend .content-header-styles;
         }
         h2 {
@@ -55,19 +57,25 @@
         }
     }
     .home-title {
-      h1 {
-          @extend .home-title-styles;
-      }
+        h1 {
+            @extend .home-title-styles;
+        }
     }
     .videos-container {
-      h1 {
-        @extend .home-title-styles;
-      }
-      .videosBuscandoCarrera {
-         .videoPublication {
-            border-color: $home-title-bg !important;
-         }
-       }
+        h1 {
+          @extend .home-title-styles;
+        }
+        .videosBuscandoCarrera {
+           .videoPublication {
+              border-color: $home-title-bg !important;
+           }
+        }
+    }
+    .work-materials-container {
+        h1 {
+          @extend .main-title-styles;
+          background: $main-menu-bg;
+        }
     }
     h2.title {
         display: none;
