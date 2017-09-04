@@ -742,10 +742,30 @@ h1.logo {
 .home-title-styles, .site-buscandocarrera .home-title h1, .site-buscandocarrera .videos-container h1 {
   background: #4b90aa; }
 
+.section-title-styles, .site-buscandocarrera .thinking-content h1 {
+  position: relative;
+  padding: 0 20px 10px 31vw;
+  line-height: 100%;
+  margin: 0;
+  font-weight: 700;
+  min-height: 13vw;
+  align-items: center;
+  display: flex; }
+
+.image-title-styles, .site-buscandocarrera .thinking-content h1:before {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 28.48vw;
+  background: no-repeat center / cover;
+  top: 0;
+  left: 0;
+  box-shadow: 16px 0px 12px 0px rgba(0, 0, 0, 0.4); }
+
 .site-buscandocarrera .content h1 {
   color: white;
   margin-top: 30px;
-  font-size: 50px !important; }
+  font-size: 50px; }
 .site-buscandocarrera .content h2 {
   font-size: 20px;
   color: white;
@@ -771,6 +791,10 @@ h1.logo {
   border-color: #4b90aa !important; }
 .site-buscandocarrera .work-materials-container h1 {
   background: #537a9e; }
+.site-buscandocarrera .thinking-content h1 {
+  background: #009791; }
+  .site-buscandocarrera .thinking-content h1:before {
+    background-image: url("http://52.37.84.217/edu-buscandocarrera/img/img_itemTitle1.png") !important; }
 .site-buscandocarrera h2.title {
   display: none; }
 

@@ -19,13 +19,32 @@
     background: $home-title-bg;
     @extend .main-title-styles;
 }
-
+.section-title-styles {
+    position: relative;
+    padding: 0 20px 10px 31vw;
+    line-height: 100%;
+    margin: 0;
+    font-weight: 700;
+    min-height: 13vw;
+    align-items: center;
+    display: flex;
+}
+.image-title-styles {
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 28.48vw;
+    background: no-repeat center / cover;
+    top: 0;
+    left: 0;
+    box-shadow: 16px 0px 12px 0px rgba(0,0,0,0.4);
+}
  .#{$site-name} {
     .content {
         h1 {
             color: white;
             margin-top: 30px;
-            font-size: 50px !important;
+            font-size: 50px;
             @extend .content-header-styles;
         }
         h2 {
@@ -75,6 +94,17 @@
         h1 {
           @extend .main-title-styles;
           background: $main-menu-bg;
+        }
+    }
+    .thinking-content {
+        h1 {
+            @extend .section-title-styles;
+            background: $home-section-first-item-bg;
+
+            &:before {
+              @extend .image-title-styles;
+              background-image: url("#{$images-path}img_itemTitle1.png") !important;
+            }
         }
     }
     h2.title {
