@@ -700,6 +700,8 @@ h1.logo {
     margin-bottom: 0 !important; } }
 @media (max-width: 767px) {
   .site-buscandocarrera .section_container.no_left_sidebar .section_content {
+    width: 100% !important; }
+  .site-buscandocarrera .publication-container .publication {
     width: 100% !important; } }
 @media (max-width: 500px) {
   .site-buscandocarrera .general-content img {
