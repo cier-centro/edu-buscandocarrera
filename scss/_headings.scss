@@ -17,7 +17,7 @@
 }
 .home-title-styles {
     background: $home-title-bg;
-    @extend .main-header-styles;
+    @extend .main-title-styles;
 }
 
  .#{$site-name} {
