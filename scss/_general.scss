@@ -6,7 +6,7 @@
 .content-styles {
     background: white;
     border-radius: 7px;
-    margin: 15px 0;
+    margin: 20px;
     padding-bottom: 15px;
 }
  .#{$site-name} {
@@ -184,7 +184,34 @@
             }
         }
      }
+     .publication-container {
+         .publication {
+             position: relative;
+             width: 50%;
+             float: left;
+             padding: 0px 15px;
 
+             &.rtecenter {
+                width: 100% !important;
+            }
+
+            a {
+              position: absolute;
+              bottom: 0;
+              right: 0;
+              width: 100%;
+              height: 100%;
+
+              img {
+                  margin: 0 !important;
+                  position: absolute;
+                  right: 15%;
+                  bottom: 12%;
+                  height: 25%;
+              }
+            }
+        }
+     }
      @media (min-width: 1100px) {
          .main_container {
               .section_content {
