@@ -110,6 +110,36 @@
             color: $home-section-first-item-bg !important;
         }
     }
+    .know-careers-content {
+        h1 {
+            @extend .section-title-styles;
+            background: $home-section-fourth-item-bg;
+
+            &:before {
+              @extend .image-title-styles;
+              background-image: url("#{$images-path}img_itemTitle4.png") !important;
+            }
+        }
+
+        h2 {
+            color: $home-section-fourth-item-bg !important;
+        }
+    }
+    .know-salary-content {
+        h1 {
+            @extend .section-title-styles;
+            background: $home-section-sixth-item-bg;
+
+            &:before {
+              @extend .image-title-styles;
+              background-image: url("#{$images-path}img_itemTitle6.png") !important;
+            }
+        }
+
+        h2 {
+            color: $home-section-sixth-item-bg !important;
+        }
+    }
     .teacher-container, .family-container {
         h1 {
             @extend .section-title-styles;
