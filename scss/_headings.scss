@@ -110,15 +110,10 @@
             color: $home-section-first-item-bg !important;
         }
     }
-    .teacher-container {
+    .teacher-container, .family-container {
         h1 {
             @extend .section-title-styles;
             background: $site-bg;
-
-            &:before {
-              @extend .image-title-styles;
-              background-image: url("#{$images-path}img_itemTitle1.png") !important;
-            }
         }
 
         h2 {
@@ -128,8 +123,24 @@
         .bordered-div {
             border-color: $site-bg !important;
         }
-
     }
+    .teacher-container {
+        h1 {
+            &:before {
+              @extend .image-title-styles;
+              background-image: url("#{$images-path}img_itemTitle7.png") !important;
+            }
+        }
+    }
+    .family-container {
+        h1 {
+            &:before {
+              @extend .image-title-styles;
+              background-image: url("#{$images-path}img_itemTitle8.png") !important;
+            }
+        }
+    }
+
     h2.title {
         display: none;
     }
