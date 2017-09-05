@@ -52,7 +52,7 @@
             margin-top: 15px;
             font-weight: 700;
             padding: 9px 5px;
-            color: white;
+            color: $main-menu-bg;
             @extend .content-header-styles;
         }
         h3 {
@@ -89,7 +89,7 @@
            }
         }
     }
-    .work-materials-container {
+    .menu-container {
         h1 {
           @extend .main-title-styles;
           background: $main-menu-bg;

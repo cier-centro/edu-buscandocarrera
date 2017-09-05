@@ -731,7 +731,7 @@ h1.logo {
   color: #1F2B49;
   margin-bottom: 0px !important; }
 
-.main-title-styles, .home-title-styles, .site-buscandocarrera .home-title h1, .site-buscandocarrera .videos-container h1, .site-buscandocarrera .work-materials-container h1 {
+.main-title-styles, .home-title-styles, .site-buscandocarrera .home-title h1, .site-buscandocarrera .videos-container h1, .site-buscandocarrera .menu-container h1 {
   margin: 10px 0 !important;
   text-align: center;
   color: white;
@@ -773,7 +773,7 @@ h1.logo {
   margin-top: 15px;
   font-weight: 700;
   padding: 9px 5px;
-  color: white; }
+  color: #537a9e; }
 .site-buscandocarrera .content h3 {
   font-size: 18px;
   color: #1f0d2e;
@@ -790,7 +790,7 @@ h1.logo {
   margin-top: 15px; }
 .site-buscandocarrera .videos-container .videosBuscandoCarrera .videoPublication {
   border-color: #4b90aa !important; }
-.site-buscandocarrera .work-materials-container h1 {
+.site-buscandocarrera .menu-container h1 {
   background: #537a9e; }
 .site-buscandocarrera .thinking-content h1 {
   background: #009791; }
