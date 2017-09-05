@@ -742,7 +742,7 @@ h1.logo {
 .home-title-styles, .site-buscandocarrera .home-title h1, .site-buscandocarrera .videos-container h1 {
   background: #4b90aa; }
 
-.section-title-styles, .site-buscandocarrera .thinking-content h1, .site-buscandocarrera .know-careers-content h1, .site-buscandocarrera .know-salary-content h1, .site-buscandocarrera .teacher-container h1, .site-buscandocarrera .family-container h1 {
+.section-title-styles, .site-buscandocarrera .thinking-container h1, .site-buscandocarrera .know-careers-container h1, .site-buscandocarrera .know-salary-container h1, .site-buscandocarrera .teacher-container h1, .site-buscandocarrera .family-container h1 {
   position: relative;
   padding: 0 20px 10px 31vw;
   line-height: 104%;
@@ -752,7 +752,7 @@ h1.logo {
   align-items: center;
   display: flex; }
 
-.image-title-styles, .site-buscandocarrera .thinking-content h1:before, .site-buscandocarrera .know-careers-content h1:before, .site-buscandocarrera .know-salary-content h1:before, .site-buscandocarrera .teacher-container h1:before, .site-buscandocarrera .family-container h1:before {
+.image-title-styles, .site-buscandocarrera .thinking-container h1:before, .site-buscandocarrera .know-careers-container h1:before, .site-buscandocarrera .know-salary-container h1:before, .site-buscandocarrera .teacher-container h1:before, .site-buscandocarrera .family-container h1:before {
   content: "";
   position: absolute;
   height: 100%;
@@ -792,23 +792,23 @@ h1.logo {
   border-color: #4b90aa !important; }
 .site-buscandocarrera .menu-container h1 {
   background: #537a9e; }
-.site-buscandocarrera .thinking-content h1 {
+.site-buscandocarrera .thinking-container h1 {
   background: #009791; }
-  .site-buscandocarrera .thinking-content h1:before {
+  .site-buscandocarrera .thinking-container h1:before {
     background-image: url("http://52.37.84.217/edu-buscandocarrera/img/img_itemTitle1.png") !important; }
-.site-buscandocarrera .thinking-content h2 {
+.site-buscandocarrera .thinking-container h2 {
   color: #009791 !important; }
-.site-buscandocarrera .know-careers-content h1 {
+.site-buscandocarrera .know-careers-container h1 {
   background: #537a9e; }
-  .site-buscandocarrera .know-careers-content h1:before {
+  .site-buscandocarrera .know-careers-container h1:before {
     background-image: url("http://52.37.84.217/edu-buscandocarrera/img/img_itemTitle4.png") !important; }
-.site-buscandocarrera .know-careers-content h2 {
+.site-buscandocarrera .know-careers-container h2 {
   color: #537a9e !important; }
-.site-buscandocarrera .know-salary-content h1 {
+.site-buscandocarrera .know-salary-container h1 {
   background: #5f5b92; }
-  .site-buscandocarrera .know-salary-content h1:before {
+  .site-buscandocarrera .know-salary-container h1:before {
     background-image: url("http://52.37.84.217/edu-buscandocarrera/img/img_itemTitle6.png") !important; }
-.site-buscandocarrera .know-salary-content h2 {
+.site-buscandocarrera .know-salary-container h2 {
   color: #5f5b92 !important; }
 .site-buscandocarrera .teacher-container h1, .site-buscandocarrera .family-container h1 {
   background: #232140; }

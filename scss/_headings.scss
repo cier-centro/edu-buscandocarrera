@@ -95,7 +95,7 @@
           background: $main-menu-bg;
         }
     }
-    .thinking-content {
+    .thinking-container {
         h1 {
             @extend .section-title-styles;
             background: $home-section-first-item-bg;
@@ -110,7 +110,7 @@
             color: $home-section-first-item-bg !important;
         }
     }
-    .know-careers-content {
+    .know-careers-container {
         h1 {
             @extend .section-title-styles;
             background: $home-section-fourth-item-bg;
@@ -125,7 +125,7 @@
             color: $home-section-fourth-item-bg !important;
         }
     }
-    .know-salary-content {
+    .know-salary-container {
         h1 {
             @extend .section-title-styles;
             background: $home-section-sixth-item-bg;
