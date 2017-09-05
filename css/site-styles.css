@@ -804,6 +804,8 @@ h1.logo {
     background-image: url("http://52.37.84.217/edu-buscandocarrera/img/img_itemTitle1.png") !important; }
 .site-buscandocarrera .teacher-container h2 {
   color: #232140 !important; }
+.site-buscandocarrera .teacher-container .bordered-div {
+  border-color: #232140 !important; }
 .site-buscandocarrera h2.title {
   display: none; }
 
