@@ -110,6 +110,22 @@
             color: $home-section-first-item-bg !important;
         }
     }
+    .teacher-container {
+        h1 {
+            @extend .section-title-styles;
+            background: $site-bg;
+
+            &:before {
+              @extend .image-title-styles;
+              background-image: url("#{$images-path}img_itemTitle1.png") !important;
+            }
+        }
+
+        h2 {
+            color: $site-bg !important;
+        }
+
+    }
     h2.title {
         display: none;
     }
