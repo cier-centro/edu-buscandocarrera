@@ -675,7 +675,8 @@ h1.logo {
       position: absolute;
       right: 15%;
       bottom: 12%;
-      height: 25%; }
+      height: 25%;
+      width: auto; }
 .site-buscandocarrera .videosBuscandoCarrera .videoPublication {
   width: 48%;
   float: left;
@@ -755,7 +756,7 @@ h1.logo {
 .image-title-styles, .site-buscandocarrera .thinking-container h1:before, .site-buscandocarrera .know-careers-container h1:before, .site-buscandocarrera .know-salary-container h1:before, .site-buscandocarrera .teacher-container h1:before, .site-buscandocarrera .family-container h1:before {
   content: "";
   position: absolute;
-  height: 100%;
+  height: 101%;
   width: 28.48vw;
   background: no-repeat center / cover;
   top: 0;
