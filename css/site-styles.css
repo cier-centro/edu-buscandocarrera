@@ -1027,32 +1027,16 @@ h1.logo {
   font-weight: 600; }
 
 .site-buscandocarrera .content .table-responsive {
-  width: 95%;
+  width: 96%;
   margin: auto;
   margin-bottom: 15px;
   border: none; }
   .site-buscandocarrera .content .table-responsive tbody tr {
     border-bottom: none; }
     .site-buscandocarrera .content .table-responsive tbody tr:nth-child(odd) {
-      background: #fffad9; }
+      background: rgba(83, 122, 158, 0.2); }
     .site-buscandocarrera .content .table-responsive tbody tr:nth-child(even) {
-      background: #ffdea1; }
-    .site-buscandocarrera .content .table-responsive tbody tr:hover {
-      background: #ff8e3c;
-      -webkit-transition: all 150ms ease-out;
-      -moz-transition: all 150ms ease-out;
-      -ms-transition: all 150ms ease-out;
-      -o-transition: all 150ms ease-out;
-      transition: all 150ms ease-out; }
-      .site-buscandocarrera .content .table-responsive tbody tr:hover * {
-        color: white !important; }
-      .site-buscandocarrera .content .table-responsive tbody tr:hover th, .site-buscandocarrera .content .table-responsive tbody tr:hover td {
-        color: white;
-        -webkit-transition: all 150ms ease-out;
-        -moz-transition: all 150ms ease-out;
-        -ms-transition: all 150ms ease-out;
-        -o-transition: all 150ms ease-out;
-        transition: all 150ms ease-out; }
+      background: #fff; }
     .site-buscandocarrera .content .table-responsive tbody tr th, .site-buscandocarrera .content .table-responsive tbody tr td {
       padding: 15px !important;
       vertical-align: middle !important;
@@ -1086,7 +1070,7 @@ h1.logo {
   border-radius: 5px 5px 0px 0px; }
   .site-buscandocarrera .content table > thead > tr > th {
     text-align: -webkit-center;
-    background: #e97117;
+    background: #232140;
     padding: 15px; }
     .site-buscandocarrera .content table > thead > tr > th:first-child {
       border-right: 1px solid #fff;
