@@ -632,6 +632,8 @@ h1.logo {
     background-position: -12px -102px; }
   .site-buscandocarrera .lateral-content .lateral-buttons a:last-child span {
     background-position: -112px -102px; }
+.site-buscandocarrera .accesoDescubreTu {
+  text-align: center; }
 .site-buscandocarrera .resources-edu-privada {
   padding-bottom: 15px; }
   .site-buscandocarrera .resources-edu-privada a {
