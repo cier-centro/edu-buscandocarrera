@@ -627,7 +627,7 @@ h1.logo {
     width: 70px;
     top: 0;
     left: 0;
-    background: url("http://52.37.84.217/edu-buscandocarrera/img/img-spritesheet.png") no-repeat; }
+    background: url("../img/img-spritesheet.png") no-repeat; }
   .site-buscandocarrera .lateral-content .lateral-buttons a:first-child span {
     background-position: -12px -102px; }
   .site-buscandocarrera .lateral-content .lateral-buttons a:last-child span {
@@ -648,7 +648,7 @@ h1.logo {
       left: 0;
       top: 0;
       height: 100%;
-      background: url("http://52.37.84.217/edu-buscandocarrera/img/img-spritesheet.png") no-repeat -235px -121px; }
+      background: url("../img/img-spritesheet.png") no-repeat -235px -121px; }
 .site-buscandocarrera .registration-content .row > * {
   text-align: center;
   margin: 15px 0; }
@@ -798,19 +798,19 @@ h1.logo {
 .site-buscandocarrera .thinking-container h1 {
   background: #009791; }
   .site-buscandocarrera .thinking-container h1:before {
-    background-image: url("http://52.37.84.217/edu-buscandocarrera/img/img_itemTitle1.png") !important; }
+    background-image: url("../img/img_itemTitle1.png") !important; }
 .site-buscandocarrera .thinking-container h2 {
   color: #009791 !important; }
 .site-buscandocarrera .know-careers-container h1 {
   background: #537a9e; }
   .site-buscandocarrera .know-careers-container h1:before {
-    background-image: url("http://52.37.84.217/edu-buscandocarrera/img/img_itemTitle4.png") !important; }
+    background-image: url("../img/img_itemTitle4.png") !important; }
 .site-buscandocarrera .know-careers-container h2 {
   color: #537a9e !important; }
 .site-buscandocarrera .know-salary-container h1 {
   background: #5f5b92; }
   .site-buscandocarrera .know-salary-container h1:before {
-    background-image: url("http://52.37.84.217/edu-buscandocarrera/img/img_itemTitle6.png") !important; }
+    background-image: url("../img/img_itemTitle6.png") !important; }
 .site-buscandocarrera .know-salary-container h2 {
   color: #5f5b92 !important; }
 .site-buscandocarrera .teacher-container h1, .site-buscandocarrera .family-container h1 {
@@ -820,9 +820,9 @@ h1.logo {
 .site-buscandocarrera .teacher-container .bordered-div, .site-buscandocarrera .family-container .bordered-div {
   border-color: #232140 !important; }
 .site-buscandocarrera .teacher-container h1:before {
-  background-image: url("http://52.37.84.217/edu-buscandocarrera/img/img_itemTitle7.png") !important; }
+  background-image: url("../img/img_itemTitle7.png") !important; }
 .site-buscandocarrera .family-container h1:before {
-  background-image: url("http://52.37.84.217/edu-buscandocarrera/img/img_itemTitle8.png") !important; }
+  background-image: url("../img/img_itemTitle8.png") !important; }
 .site-buscandocarrera h2.title {
   display: none; }
 
@@ -918,13 +918,13 @@ h1.logo {
     .site-buscandocarrera #edu_buscandocarrera_home_slider .views_slideshow_controls_text_next a {
       color: transparent;
       padding-bottom: 35px;
-      background: url("http://52.37.84.217/edu-buscandocarrera/img/img-spritesheet.png") no-repeat -51px 2px; }
+      background: url("../img/img-spritesheet.png") no-repeat -51px 2px; }
       .site-buscandocarrera #edu_buscandocarrera_home_slider .views_slideshow_controls_text_next a:hover {
         /*background-position: -59px -55px !important;*/ }
   .site-buscandocarrera #edu_buscandocarrera_home_slider .views-slideshow-controls-text-previous a {
     color: transparent;
     padding-bottom: 35px;
-    background: url("http://52.37.84.217/edu-buscandocarrera/img/img-spritesheet.png") no-repeat 3px 2px; }
+    background: url("../img/img-spritesheet.png") no-repeat 3px 2px; }
     .site-buscandocarrera #edu_buscandocarrera_home_slider .views-slideshow-controls-text-previous a:hover {
       /*background-position: -6px -55px !important;*/ }
   .site-buscandocarrera #edu_buscandocarrera_home_slider .views_slideshow_slide, .site-buscandocarrera #edu_buscandocarrera_home_slider .views_slideshow_slide img {
@@ -971,13 +971,13 @@ h1.logo {
         color: #5b5b5b !important;
         border: 2px solid #5b5b5b !important; }
         .site-buscandocarrera #edu_buscandocarrera_home_slider .views_slideshow_slide > div .btn-info:hover span {
-          background: url("http://52.37.84.217/edu-buscandocarrera/img/img-spritesheet.png") no-repeat -105px -200px !important; }
+          background: url("../img/img-spritesheet.png") no-repeat -105px -200px !important; }
       .site-buscandocarrera #edu_buscandocarrera_home_slider .views_slideshow_slide > div .btn-info span {
         height: 27px;
         width: 27px;
         margin-left: 15px;
         float: right;
-        background: url("http://52.37.84.217/edu-buscandocarrera/img/img-spritesheet.png") no-repeat -174px -25px; }
+        background: url("../img/img-spritesheet.png") no-repeat -174px -25px; }
   .site-buscandocarrera #edu_buscandocarrera_home_slider .views-more-link {
     color: white;
     padding: 4px 10px;
@@ -1105,7 +1105,7 @@ h1.logo {
   padding: 10px 16px 10px 50px;
   position: relative; }
   .site-buscandocarrera .icon-button span {
-    background: url("http://52.37.84.217/edu-buscandocarrera/img/img-spritesheet.png") no-repeat;
+    background: url("../img/img-spritesheet.png") no-repeat;
     height: 45px;
     width: 45px;
     position: absolute;
@@ -1172,11 +1172,11 @@ h1.logo {
   height: 50px; }
 .site-buscandocarrera .modal .modal-footer .bienestar-laboral-logo {
   float: left;
-  background: url("http://52.37.84.217/edu-buscandocarrera/img/logo-bienestarlaboral.png") no-repeat center/contain; }
+  background: url("../img/logo-bienestarlaboral.png") no-repeat center/contain; }
 .site-buscandocarrera .modal .modal-footer .new-country-logo {
-  background: url("http://52.37.84.217/edu-buscandocarrera/img/logo-nuevopais.png") no-repeat center/contain; }
+  background: url("../img/logo-nuevopais.png") no-repeat center/contain; }
 .site-buscandocarrera .modal .modal-footer .mineducacion-logo {
-  background: url("http://52.37.84.217/edu-buscandocarrera/img/logo-mineducacion.png") no-repeat center/contain; }
+  background: url("../img/logo-mineducacion.png") no-repeat center/contain; }
 .site-buscandocarrera .modal .modal-footer .new-country-logo, .site-buscandocarrera .modal .modal-footer .mineducacion-logo {
   float: right; }
 @media (max-width: 767px) {
@@ -1323,22 +1323,22 @@ h1.logo {
 .site-buscandocarrera .home-section .container-fluid a:hover div h3, .site-buscandocarrera .home-section .container-fluid a:hover div label {
   text-decoration: underline; }
 .site-buscandocarrera .home-section .container-fluid a:first-child > div {
-  background-image: url("http://52.37.84.217/edu-buscandocarrera/img/img_itemHomeMenu1.png");
+  background-image: url("../img/img_itemHomeMenu1.png");
   background-color: #009791; }
 .site-buscandocarrera .home-section .container-fluid a:nth-child(2) > div {
-  background-image: url("http://52.37.84.217/edu-buscandocarrera/img/img_itemHomeMenu2.png");
+  background-image: url("../img/img_itemHomeMenu2.png");
   background-color: #806486; }
 .site-buscandocarrera .home-section .container-fluid a:nth-child(3) > div {
-  background-image: url("http://52.37.84.217/edu-buscandocarrera/img/img_itemHomeMenu3.png");
+  background-image: url("../img/img_itemHomeMenu3.png");
   background-color: #8e2280; }
 .site-buscandocarrera .home-section .container-fluid a:nth-child(4) > div {
-  background-image: url("http://52.37.84.217/edu-buscandocarrera/img/img_itemHomeMenu4.png");
+  background-image: url("../img/img_itemHomeMenu4.png");
   background-color: #537a9e; }
 .site-buscandocarrera .home-section .container-fluid a:nth-child(5) > div {
-  background-image: url("http://52.37.84.217/edu-buscandocarrera/img/img_itemHomeMenu5.png");
+  background-image: url("../img/img_itemHomeMenu5.png");
   background-color: #4b90aa; }
 .site-buscandocarrera .home-section .container-fluid a:nth-child(6) > div {
-  background-image: url("http://52.37.84.217/edu-buscandocarrera/img/img_itemHomeMenu6.png");
+  background-image: url("../img/img_itemHomeMenu6.png");
   background-color: #5f5b92; }
 .site-buscandocarrera .home-section .container-fluid a:nth-child(7) > div, .site-buscandocarrera .home-section .container-fluid a:nth-child(8) > div {
   height: 364px; }
@@ -1349,9 +1349,9 @@ h1.logo {
   .site-buscandocarrera .home-section .container-fluid a:nth-child(7) > div label, .site-buscandocarrera .home-section .container-fluid a:nth-child(8) > div label {
     padding: 0 0 20px !important; }
 .site-buscandocarrera .home-section .container-fluid a:nth-child(7) > div {
-  background: url("http://52.37.84.217/edu-buscandocarrera/img/img_itemHomeMenu7.png") no-repeat 0 0/100% auto !important; }
+  background: url("../img/img_itemHomeMenu7.png") no-repeat 0 0/100% auto !important; }
 .site-buscandocarrera .home-section .container-fluid a:nth-child(8) > div {
-  background: url("http://52.37.84.217/edu-buscandocarrera/img/img_itemHomeMenu8.png") no-repeat 0 0/100% auto !important; }
+  background: url("../img/img_itemHomeMenu8.png") no-repeat 0 0/100% auto !important; }
 @media (min-width: 992px) {
   .site-buscandocarrera .home-section .container-fluid a:nth-child(odd) > div {
     border-right: 10px solid white; }
@@ -1393,7 +1393,7 @@ h1.logo {
   color: #DE3A73;
   width: 40px; }
 .site-buscandocarrera .content .pager .pager-first a, .site-buscandocarrera .content .pager .pager-previous a, .site-buscandocarrera .content .pager .pager-next a, .site-buscandocarrera .content .pager .pager-last a {
-  background: url("http://52.37.84.217/edu-buscandocarrera/img/img-pager-spritesheet.png"); }
+  background: url("../img/img-pager-spritesheet.png"); }
 .site-buscandocarrera .content .pager .pager-first a {
   background-position: 3px -20px; }
 .site-buscandocarrera .content .pager .pager-previous a {
@@ -1476,7 +1476,7 @@ h1.logo {
     position: absolute;
     height: 85px;
     width: 86px;
-    background: url("http://52.37.84.217/edu-buscandocarrera/img/img-spritesheet.png") no-repeat;
+    background: url("../img/img-spritesheet.png") no-repeat;
     left: 40px;
     top: 0; }
   .site-buscandocarrera .site-title h1 {
@@ -1525,12 +1525,12 @@ h1.logo {
     width: 100%;
     height: 65px; }
   .site-buscandocarrera .related-sites .icfes-link .site-link {
-    background: url("http://52.37.84.217/edu-buscandocarrera/img/logo_icfes.png") no-repeat center/contain; }
+    background: url("../img/logo_icfes.png") no-repeat center/contain; }
   .site-buscandocarrera .related-sites .icetex-link .site-link {
-    background: url("http://52.37.84.217/edu-buscandocarrera/img/logo_icetex.png") no-repeat center/contain; }
+    background: url("../img/logo_icetex.png") no-repeat center/contain; }
   .site-buscandocarrera .related-sites .inci-link .site-link {
-    background: url("http://52.37.84.217/edu-buscandocarrera/img/logo_inci.png") no-repeat center/contain; }
+    background: url("../img/logo_inci.png") no-repeat center/contain; }
   .site-buscandocarrera .related-sites .insor-link .site-link {
-    background: url("http://52.37.84.217/edu-buscandocarrera/img/logo_insor.png") no-repeat center/contain; }
+    background: url("../img/logo_insor.png") no-repeat center/contain; }
 
 /*# sourceMappingURL=site-styles.css.map */
